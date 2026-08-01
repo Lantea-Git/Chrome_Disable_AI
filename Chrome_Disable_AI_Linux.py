@@ -9,7 +9,7 @@ policy_file = os.path.join(policy_dir, "chrome_policies.json")
 
 policies = {
     "LensOverlaySettings": 1,
-    "SearchContentSharingSettings": 1
+    "SearchContentSharingSettings": 1,
     "AIModeSettings": 1
 }
 content = json.dumps(policies, indent=2)
