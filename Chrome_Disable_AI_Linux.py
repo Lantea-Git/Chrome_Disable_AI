@@ -8,7 +8,6 @@ policy_dir = "/etc/opt/chrome/policies/managed"
 policy_file = os.path.join(policy_dir, "chrome_policies.json")
 
 policies = {
-    "LensOverlaySettings": 1,
     "SearchContentSharingSettings": 1,
     "AIModeSettings": 1
 }
