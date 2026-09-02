@@ -5,7 +5,7 @@ import time
 
 
 policy_dir = "/etc/opt/chrome/policies/managed"
-policy_file = os.path.join(policy_dir, "chrome_policies.json")
+policy_file = f"{policy_dir}/chrome_policies.json"
 
 policies = {
     "SearchContentSharingSettings": 1,
