@@ -1,0 +1,28 @@
+/* ==UserStyle==
+@name           Hide_Google_AI
+@namespace      HideGoogleAI
+@version        0.1.0
+@updateURL      https://github.com/Lantea-Git/Chrome_Disable_AI/raw/main/Hide_Google_AI.user.css
+@description    Vire couleur nitro.
+@author         Based on css rules of pfish.zone
+==/UserStyle== */
+
+@-moz-document domain("google.fr"), domain("google.com") {
+
+    /* https://github.com/Lantea-Git/Chrome_Disable_AI/edit/main/Hide_Google_AI.user.css */
+
+    /* BASED ON CSS LIST OF pfish.zone */
+    /* https://code.pfish.zone/personal/no-gemini/file/tip/extension/css/search.css */
+
+    /* AI summary */ .h7Tj7e,
+    /* AI summary wrapper (?) */ .Wm5I1e,
+    /* AI loading screen */ .EjQTId .Kevs9,
+    /* AI-generated "people also ask" */ .related-question-pair:has(.XTvndd),
+    /* AI-generated "things to know" */ [jscontroller=Elkdbc],
+    /* AI Mode homepage button */ button.plR5qb,
+    /* AI Mode search tab */ .olrp5b,
+    /* Labs icon */ .gb_D a[href^="https://labs.google.com/"] {
+        display: none !important;
+    }
+
+}
