@@ -5,6 +5,6 @@
 
 ## On Google Search
 
-https://code.pfish.zone/personal/no-gemini/file/tip/extension/css/search.css  (CSS RULES)    
-**[Hide_Google_AI.user.css](../../raw/main/Hide_Google_AI.user.css)** / **[Edit(Onche.user.css)](../../edit/main/Hide_Google_AI.user.css)**  
+https://code.pfish.zone/personal/no-gemini/file/tip/extension/css/search.css  (CSS RULES)      
+**[Hide_Google_AI.user.css](../../raw/main/Hide_Google_AI.user.css)** / **[Edit(Hide_Google_AI.user.css)](../../edit/main/Hide_Google_AI.user.css)**  
 
