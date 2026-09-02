@@ -5,11 +5,6 @@
 
 ## On Google Search
 
-https://chromewebstore.google.com/detail/hide-gemini-and-google-ai/ggneoaeoplbpehkojnifancipajnhcbp   
-https://addons.mozilla.org/fr/firefox/addon/hide-gemini/   (Compatible Firefox)   
-https://addons.mozilla.org/fr/firefox/addon/hide-google-ai-overviews/ (Compatible Firefox FFMOBILE)   
-
-## On Google Search FallBack   
-
-https://chromewebstore.google.com/detail/hide-google-ai-overviews/neibhohkbmfjninidnaoacabkjonbahn  
+https://code.pfish.zone/personal/no-gemini/file/tip/extension/css/search.css  (CSS RULES)
+**[Hide_Google_AI.user.css](../../raw/main/Hide_Google_AI.user.css)** / **[Edit(Onche.user.css)](../../edit/main/Hide_Google_AI.user.css)**  
 
