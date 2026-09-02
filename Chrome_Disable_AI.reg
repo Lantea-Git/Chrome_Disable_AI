@@ -1,7 +1,6 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome]
-"LensOverlaySettings"=dword:00000001
 "SearchContentSharingSettings"=dword:00000001
 "AIModeSettings"=dword:00000001
 
